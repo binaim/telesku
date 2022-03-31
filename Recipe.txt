@@ -4,4 +4,7 @@ pizza
 fish
 spinach
 thank u
-beans and bannanas
+beans and bannana
+i have done the branch 
+but i will try to merge both right now
+
