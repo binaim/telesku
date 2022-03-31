@@ -4,3 +4,5 @@ pizza
 fish
 spinach
 thank u
+i have done the branch 
+but i will try to merge both right now
